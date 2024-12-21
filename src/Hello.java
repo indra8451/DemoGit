@@ -9,6 +9,8 @@ public class Hello {
 		System.out.println("git is easy now");
 		System.out.println("untrackrd");
 		System.out.println("lerning last step");
+		System.out.println("successfully removing unwamted files");
+		System.out.println("Adding commit in feture");
 	}
 
 }
