@@ -10,6 +10,8 @@ public class Hello {
 		System.out.println("untrackrd");
 		System.out.println("lerning last step");
 		System.out.println("Adding in master");
+		System.out.println("successfully removing unwamted files");
+		System.out.println("Adding commit in feture");
 	}
 
 }
