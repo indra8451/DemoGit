@@ -12,6 +12,8 @@ public class Hello {
 		System.out.println("Adding in master");
 		System.out.println("successfully removing unwamted files");
 		System.out.println("Adding commit in feture");
+		System.out.println("rahul adding");
+
 	}
 
 }
